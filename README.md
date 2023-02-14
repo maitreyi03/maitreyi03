@@ -1,7 +1,7 @@
 # Hi there! I'm Maitreyi:  
 
-I'm a freshman at UCI with a _computer engineer_ major.  
-I am familiar with Java, Python.  
+I'm a sophmore at UCI with a _Computer Science and Engineering_ major.  
+I am familiar with Java, C++, Python.  
 I also have some knowledge of Javascript, HTML and CSS.  
 
 
